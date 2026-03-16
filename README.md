@@ -22,7 +22,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="40" alt="rust logo"/>
+  <img src="https://cdn.simpleicons.org/rust/DEA584" height="40" alt="rust logo"/>
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
